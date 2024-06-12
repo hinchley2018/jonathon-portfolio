@@ -113,9 +113,9 @@ function App() {
       />
       <Box sx={{ bgcolor: 'background.default' }}>
         <Profile
-          name="Joe DeFilippo"
-          role="Founder"
-          githubUrl="https://github.com/joedefilippo"
+          name="Jonathon Hinchley"
+          role="Software developer"
+          githubUrl="https://github.com/hinchley2018"
         />
         <About
           certifications={[
@@ -161,7 +161,7 @@ function App() {
         <Divider/>
         <Contact
           email={"contact@softwarequalityassociates.com"}
-          linkedInUrl={"https://www.linkedin.com/josephdefilippo"}
+          linkedInUrl={"https://www.linkedin.com/in/jonathon-hinchley/"}
         />
         
       </Box>
